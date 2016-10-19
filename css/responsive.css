@@ -1,0 +1,5 @@
+@media screen and(min-width:1200px) and (max-width:1241px) {
+    .carousel-indicators {
+        bottom: 100px !important;
+    }
+}
